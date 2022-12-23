@@ -8,6 +8,8 @@
 - 重寫最近的Comment
   - `git commit --amend -m "New commit message."`
   - `git push -f`
+- Add submodule
+  - `git submodule add <remote_url> <destination_folder>`
 
 # npm
 
