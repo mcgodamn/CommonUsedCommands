@@ -10,6 +10,8 @@
   - `git push -f`
 - Add submodule
   - `git submodule add <remote_url> <destination_folder>`
+- Remove submodule
+  - `git rm <path-to-submodule>`
 
 # npm
 
