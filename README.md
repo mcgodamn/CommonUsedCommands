@@ -12,6 +12,8 @@
   - `git submodule add <remote_url> <destination_folder>`
 - Remove submodule
   - `git rm <path-to-submodule>`
+- 大小寫問題沒有變更
+  - `git config --local core.ignorecase false`
 
 # npm
 
